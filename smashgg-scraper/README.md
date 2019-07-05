@@ -1,5 +1,5 @@
 # Code
-The main scraper file is 'get_data.py' and its support file 'api_scrape_util.py'. 'api_scrape_util.py' will need to be edited occassionally to pick up tournaments. The rules for this can be edited in the Skip_event function. Furthermore, to run these to files make sure to create the appropriate file directories to store data.
+The main scraper file is 'get_data.py' and its support file 'api_scrape_util.py'. 'api_scrape_util.py' will need to be edited occassionally to pick up tournaments (singles has to be in the event name etc...). The rules for this can be edited in the Skip_Event function. Furthermore, to run these to files make sure to create the appropriate file directories to store data.
 
 Both of these files are modified versions of files I found from bwaggone's project (https://github.com/bwaggone/smash-stats). All credit goes to them for creating the scrapper files and logic.
 
