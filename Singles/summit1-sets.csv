@@ -1,0 +1,47 @@
+P1,P2,set winner,P1Score,P2Score,Round,roundDivision
+Samsora ,Mew2King,0,1,0,round,46
+Dabuz,ZD,0,1,0,round,45
+VoiD,Armada,0,1,0,round,44
+Cosmos,Leffen,0,1,0,round,43
+Samsora,Dabuz,0,1,0,round,42
+VoiD,Cosmos,1,0,1,round,41
+Mew2King,ZD,0,1,0,round,40
+Armada,Leffen,1,0,1,round,39
+Samsora,Cosmos,0,1,0,round,38
+Armada,ZD,0,1,0,round,37
+Dabuz,Leffen,0,1,0,round,36
+VoiD,Mew2King,0,1,0,round,35
+Zackray,Plup,0,1,0,round,34
+Light,ZeRo,0,1,0,round,33
+MkLeo,Mango,0,1,0,round,32
+Nairo,Glutonny,0,1,0,round,31
+Zackray,Light,0,1,0,round,30
+MkLeo,Nairo,1,0,1,round,29
+Plup,ZeRo,1,0,1,round,28
+Mango,Glutonny,1,0,1,round,27
+Zackray,Nairo,0,1,0,round,26
+Plup,Mango,0,1,0,round,25
+Light,Glutonny,1,0,1,round,24
+MkLeo,ZeRo,0,1,0,round,23
+Samsora ,MkLeo ,1,0,1,round,22
+Nairo ,VoiD ,0,1,0,round,21
+Zackray ,Dabuz ,0,1,0,round,20
+Cosmos ,Glutonny ,1,0,1,round,19
+MkLeo ,Nairo ,0,1,0,round,18
+Zackray ,Glutonny ,1,0,1,round,17
+ZeRo ,Armada ,1,0,1,round,16
+Mew2King ,Mango ,0,1,0,round,15
+Leffen ,Plup ,0,1,0,round,14
+Light ,ZD ,0,1,0,round,13
+Cosmos ,Armada ,0,1,0,round,12
+Dabuz ,Mew2King ,0,1,0,round,11
+VoiD ,Leffen ,0,1,0,round,10
+Samsora ,Light ,0,1,0,round,9
+Cosmos ,Dabuz ,1,0,1,round,8
+VoiD ,Samsora ,1,0,1,round,7
+Nairo ,Dabuz ,1,0,1,round,6
+Zackray ,Samsora ,1,0,1,round,5
+MkLeo ,Glutonny ,0,1,0,round,4
+Dabuz ,Samsora ,0,1,0,round,3
+Glutonny ,Dabuz ,1,0,1,round,2
+MkLeo ,Dabuz ,0,1,0,round,1

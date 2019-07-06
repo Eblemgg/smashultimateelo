@@ -1,0 +1,20 @@
+P1,P2,set winner,P1Score,P2Score,Round,roundDivision
+Light ,Stroder ,0,1,0,round,19
+Salem ,WaDi ,1,0,1,round,18
+Marss ,Larry Lurr ,0,1,0,round,17
+VoiD ,ESAM,0,1,0,round,16
+Light ,WaDi ,1,0,1,round,15
+Marss ,VoiD,1,0,1,round,14
+WaDi ,VoiD,1,0,1,round,13
+ESAM,Lui$ ,0,1,0,round,12
+Larry Lurr ,Pelca ,0,1,0,round,11
+Salem ,Deus,0,1,0,round,10
+Stroder ,Luco,0,1,0,round,9
+ESAM,Larry Lurr ,0,1,0,round,8
+Salem ,Stroder ,1,0,1,round,7
+Light ,ESAM,0,1,0,round,6
+Marss ,Stroder ,0,1,0,round,5
+Light ,Marss ,0,1,0,round,4
+WaDi ,Light ,1,0,1,round,3
+VoiD ,Light ,1,0,1,round,2
+VoiD ,Light ,0,1,0,round,1

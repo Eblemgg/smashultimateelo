@@ -1,0 +1,15 @@
+P1,P2,set winner,P1Score,P2Score,Round,roundDivision
+tweek,mr e,0,3,0,Winners Quarter-Final,8
+larry lurr,nakat,0,3,1,Winners Quarter-Final,8
+dabuz,tyrant,0,3,1,Winners Quarter-Final,8
+cosmos,void,1,0,3,Winners Quarter-Final,8
+mr e,nakat,1,0,3,Losers Round 1,8
+tyrant,cosmos,1,0,3,Losers Round 1,8
+tweek,larry lurr,0,3,0,Winners Semi-Final,6
+dabuz,void,0,3,2,Winners Semi-Final,6
+void,nakat,0,3,0,Losers Quarter-Final,6
+larry lurr,cosmos,1,0,3,Losers Quarter-Final,6
+void,cosmos,1,2,3,Losers Semi-Final,4
+tweek,dabuz,0,3,0,Winners Final,3
+dabuz,cosmos,0,3,1,Losers Final,3
+tweek,dabuz,0,3,2,Grand Final,2
