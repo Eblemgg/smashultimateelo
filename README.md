@@ -2,7 +2,7 @@
 Repository for creating elo scores for Super Smash Bros. Ultimate professional players
 
 # What is this?
-This repository is a collection of data of head-to-head matchups between professional Smash players competing in national tournaments. It also contains the python code used to scrape the set data as well as the code to create the elo scores. Both of these files will need to modified by the user to work properly (explained in the smashgg-scrapper readme).
+This repository is a collection of data of head-to-head matchups between professional Smash players competing in national tournaments. It also contains the python code used to scrape the set data as well as the code to create the elo scores. Both of these files will need to modified by the user to work properly (explained in the smashgg-scraper readme).
 
 # What is Elo and how did you calculate it?
 Elo was developed by Arpad Elo, a master-level chess player. The system was designed to be an objective way to evaluate player performance rather than subjectively giving a player points for placing in a tournament. The score has been used by the United States Chess Federation (USCF), college American football, tennis, scrabble, and various video games. There are more sophisticated methods to calculate a player's actual skill such as Glicko-2 and Microsoft's TrueSkill. However, Elo has the advantage of being simple to compute and easy to understand.
